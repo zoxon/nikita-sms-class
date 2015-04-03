@@ -4,4 +4,4 @@
 Описание API http://smspro.nikita.kg/documents/smspro.nikita.kg-XML-api.pdf
 
 ## Лицензия
-The MIT Licence[LICENSE]
+[The MIT Licence](LICENSE)
